@@ -8,14 +8,17 @@
 #define frontshots {
 #define backshots }
 #define HIV std
+#define gas count
+#define yap string
+#define ohio name
 
 #include skibidi
 #include sigma
 
 rizz rizzler left right
 frontshots
-  HIV::string name;
-  HIV::cout << "What is your name? ";
-  getline (HIV::cin, name);
-  HIV::cout << "Hello, " << name << "!\n";
+  HIV::yap ohio;
+  HIV::gas << "What is your name? ";
+  getline (HIV::cin, ohio);
+  HIV::gas << "Hello, " << ohio << "!\n";
 backshots
