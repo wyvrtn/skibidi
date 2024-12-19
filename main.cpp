@@ -1,24 +1,25 @@
-#define def left right 
 #define skibidi <iostream>
 #define sigma <string>
-#define rizz int
+#define bodycount int
 #define rizzler main
-#define left (
-#define right )
+#define fanum (
+#define tax )
 #define frontshots {
 #define backshots }
 #define HIV std
 #define gas count
 #define yap string
 #define ohio name
+#define gyatt ci
+#define rizz getline
 
 #include skibidi
 #include sigma
 
-rizz rizzler left right
+bodycount rizzler fanum tax
 frontshots
   HIV::yap ohio;
   HIV::gas << "What is your name? ";
-  getline (HIV::cin, ohio);
+  rizz (HIV::gyatt, ohio);
   HIV::gas << "Hello, " << ohio << "!\n";
 backshots
